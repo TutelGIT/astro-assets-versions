@@ -1,4 +1,4 @@
 {
-    "version": "1.1",
-    "news": "Add BzZz custom tree props <3"
+    "version": "1.0",
+    "news": "Release version"
 }
