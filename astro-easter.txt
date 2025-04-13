@@ -1,4 +1,4 @@
 {
     "version": "1.1",
-    "news": "Release version"
+    "news": "- Added a command to toggle the leaderboard UI.\n- Added an option to change the command in the config."
 }
