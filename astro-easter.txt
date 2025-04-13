@@ -1,4 +1,4 @@
 {
-    "version": "1.1",
-    "news": "- Added a command to toggle the leaderboard UI.\n- Added an option to change the command in the config."
+    "version": "1.2",
+    "news": "- Added a version check.\n- Resolved a bug that prevented the UI from opening on script restart"
 }
